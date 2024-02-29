@@ -1,0 +1,6 @@
+
+Innoson - what data can you get from innoson vehicles
+
+Weather data - analyze the frequency of extreme cases of weather in Southern and Northern region of Nigeria with all abnormalities in the last 50 years
+
+Predict whether the weather condition will get worse or whether it was due to industry processes

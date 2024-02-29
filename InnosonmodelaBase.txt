@@ -1,0 +1,11 @@
+IVM Caris, compact sedan based on the Forthing Jingyi S50
+IVM G20 Smart, compact MPV based on the Keyton EX80
+IVM Ikenga, compact MPV based on the Weiwang M60
+IVM Capa, MPV based on the Forthing CM7
+IVM G5T, mid-size crossover based on the Forthing T5L
+IVM G6T, mid-size SUV based on the Foday Landfort
+IVM G40, off-road vehicle based on the Beijing BJ40
+IVM G80, mid-size SUV based on the Beijing BJ80
+IVM Carrier 4WD, mid-size pickup truck based on the Zhongxing Grand Tiger TUV
+IVM Granite, mid-size pickup truck based on the Zhongxing Terralord
+IVM Mini Bus, microvan based on the Keyton M70
